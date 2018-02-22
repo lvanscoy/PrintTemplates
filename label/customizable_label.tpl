@@ -46,7 +46,7 @@ Set any of the options in this section from 'false' to 'true' in order to enable
 
 {# Alt. Label (2.00x1.00) settings #}
 
-{% set alt_description_font_size = '9pt' %}         {# Default is 9pt #}
+{% set alt_description_font_size = '11pt' %}         {# Default is 9pt #}
 {% set alt_price_font_size = '12pt' %}              {# Default is 12pt #}
 
 {# Use the following if adjustments to the label position are needed. Positive and negative numbers work #}
